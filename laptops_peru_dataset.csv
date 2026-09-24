@@ -1,0 +1,43 @@
+﻿Manufacturer,Model Name,Category,Screen Size,Screen,CPU,RAM,Storage,GPU,Operating System,Operating System Version,Weight,Price
+Dell,Inspiron 3520,Notebook,15.6,FHD IPS,Intel Core i5-1235U,8,512,Intel Iris Xe,Windows,11 Home,1.65,2399
+Dell,G15 5530,Gaming,15.6,FHD 120Hz,Intel Core i7-13650HX,16,512,NVIDIA RTX 4050,Windows,11 Home,2.81,4899
+Dell,Latitude 3440,Notebook,14.0,FHD IPS,Intel Core i5-1335U,16,512,Intel Iris Xe,Ubuntu,Linux,1.54,3199
+Dell,XPS 13 9315,Ultrabook,13.4,FHD IPS,Intel Core i7-1250U,16,512,Intel Iris Xe,Windows,11 Pro,1.17,6299
+Dell,Alienware m16,Gaming,16.0,QHD 240Hz,Intel Core i9-13900HX,32,1024,NVIDIA RTX 4080,Windows,11 Pro,3.25,12499
+MSI,GF63 Thin,Gaming,15.6,FHD 144Hz,Intel Core i5-12450H,8,512,NVIDIA GTX 1650,Windows,11 Home,1.86,2799
+MSI,Cyborg 15,Gaming,15.6,FHD 144Hz,Intel Core i7-12650H,16,512,NVIDIA RTX 4060,Windows,11 Home,1.98,4599
+MSI,Modern 14,Ultrabook,14.0,FHD IPS,AMD Ryzen 5 7530U,16,512,AMD Radeon Graphics,Windows,11 Home,1.4,2299
+MSI,Katana 17,Gaming,17.3,FHD 144Hz,Intel Core i7-13620H,16,1024,NVIDIA RTX 4070,Windows,11 Home,2.6,6199
+MSI,Stealth 16 Studio,Gaming,16.0,UHD OLED,Intel Core i9-13900H,32,1024,NVIDIA RTX 4070,Windows,11 Pro,1.99,9899
+Lenovo,IdeaPad Slim 3,Notebook,15.6,FHD IPS,AMD Ryzen 5 7520U,8,512,AMD Radeon 610M,Windows,11 Home,1.62,1899
+Lenovo,V15 G4,Notebook,15.6,FHD,Intel Core i3-1315U,8,256,Intel UHD,Linux,Ubuntu,1.65,1499
+Lenovo,LOQ 15IRH8,Gaming,15.6,FHD 144Hz,Intel Core i5-12450H,16,512,NVIDIA RTX 3050,Windows,11 Home,2.4,3399
+Lenovo,Legion Pro 5,Gaming,16.0,WQXGA 165Hz,AMD Ryzen 7 7745HX,16,1024,NVIDIA RTX 4060,Windows,11 Home,2.5,5899
+Lenovo,ThinkPad E14 Gen 5,Notebook,14.0,FHD IPS,Intel Core i7-1355U,16,512,Intel Iris Xe,Windows,11 Pro,1.53,4299
+HP,Laptop 15-ef2519la,Notebook,15.6,HD,AMD Ryzen 3 5300U,8,256,AMD Radeon Graphics,Windows,11 Home,1.69,1599
+HP,Victus 15-fa0000,Gaming,15.6,FHD 144Hz,Intel Core i5-12450H,16,512,NVIDIA RTX 3050,Windows,11 Home,2.29,3299
+HP,Pavilion x360,Convertible,14.0,FHD Touch,Intel Core i5-1335U,8,512,Intel Iris Xe,Windows,11 Home,1.51,2899
+HP,ProBook 440 G10,Notebook,14.0,FHD IPS,Intel Core i7-1355U,16,512,Intel Iris Xe,Linux,FreeDOS,1.38,3899
+HP,OMEN 16-wf0000,Gaming,16.0,FHD 165Hz,Intel Core i7-13700HX,32,1024,NVIDIA RTX 4070,Windows,11 Home,2.35,7499
+ASUS,Vivobook Go 15,Notebook,15.6,FHD,AMD Ryzen 5 7520U,8,512,AMD Radeon Graphics,Windows,11 Home,1.63,1999
+ASUS,TUF Gaming A15,Gaming,15.6,FHD 144Hz,AMD Ryzen 7 7735HS,16,512,NVIDIA RTX 4050,Windows,11 Home,2.2,4199
+ASUS,Zenbook 14 OLED,Ultrabook,14.0,2.8K OLED,Intel Core i7-1360P,16,1024,Intel Iris Xe,Windows,11 Home,1.39,4999
+ASUS,ROG Strix G16,Gaming,16.0,FHD 165Hz,Intel Core i7-13650HX,16,512,NVIDIA RTX 4060,Windows,11 Home,2.5,5999
+ASUS,ROG Zephyrus G14,Gaming,14.0,QHD 165Hz,AMD Ryzen 9 7940HS,32,1024,NVIDIA RTX 4070,Windows,11 Pro,1.65,8999
+Apple,MacBook Air M1,Ultrabook,13.3,Retina,Apple M1,8,256,Apple M1 7-core,macOS,Monterey,1.29,3699
+Apple,MacBook Air M2,Ultrabook,13.6,Liquid Retina,Apple M2,8,256,Apple M2 8-core,macOS,Ventura,1.24,4699
+Apple,MacBook Air 15 M2,Ultrabook,15.3,Liquid Retina,Apple M2,16,512,Apple M2 10-core,macOS,Ventura,1.51,6299
+Apple,MacBook Pro 14 M3,Ultrabook,14.2,Liquid Retina XDR,Apple M3,18,512,Apple M3 10-core,macOS,Sonoma,1.55,7899
+Apple,MacBook Pro 16 M3 Max,Workstation,16.2,Liquid Retina XDR,Apple M3 Max,36,1024,Apple M3 Max 30-core,macOS,Sonoma,2.14,15999
+Advance,NV-5044,Notebook,14.0,HD,Intel Celeron N4020,4,128,Intel UHD 600,Windows,11 Home,1.3,899
+Advance,NV-7055,Notebook,15.6,FHD,Intel Core i3-1005G1,8,256,Intel UHD,Windows,11 Home,1.7,1299
+Advance,Omni-14,Notebook,14.0,HD,Intel Celeron N5100,8,256,Intel UHD,Linux,Ubuntu,1.35,1099
+Advance,NV-9011,Notebook,15.6,FHD IPS,Intel Core i5-1135G7,8,512,Intel Iris Xe,Windows,11 Home,1.75,1799
+Aorus,15 9KF,Gaming,15.6,FHD 360Hz,Intel Core i5-12500H,16,512,NVIDIA RTX 4060,Windows,11 Home,2.25,4999
+Aorus,17 BKF,Gaming,17.3,FHD 300Hz,Intel Core i7-13700H,16,1024,NVIDIA RTX 4070,Windows,11 Home,2.7,7299
+Aorus,15X ASF,Gaming,15.6,QHD 240Hz,Intel Core i9-13900HJ,32,1024,NVIDIA RTX 4070,Windows,11 Pro,2.28,8599
+Aorus,17X AZF,Gaming,17.3,QHD 240Hz,Intel Core i9-13980HX,32,2048,NVIDIA RTX 4090,Windows,11 Pro,2.8,16999
+Chuwi,HeroBook Pro,Notebook,14.1,FHD IPS,Intel Celeron N4020,8,256,Intel UHD 600,Windows,11 Home,1.39,999
+Chuwi,CoreBook X,Notebook,14.0,2K IPS,Intel Core i5-1035G1,16,512,Intel Iris Plus,Windows,11 Home,1.5,1699
+Chuwi,GemiBook XPro,Notebook,14.1,FHD IPS,Intel Alder Lake N100,8,256,Intel UHD,Windows,11 Home,1.46,1199
+Chuwi,FreeBook 13.5,Convertible,13.5,2K Touch,Intel Celeron N5100,12,512,Intel UHD,Windows,11 Home,1.36,1499

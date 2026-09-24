@@ -1,0 +1,9 @@
+
+#proceso de instalacion de librerias
+pip install streamlit pandas numpy scikit-learn matplotlib seaborn
+
+
+#proceso de pruebas local en Streamlit
+
+streamlit run app.py
+
