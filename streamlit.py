@@ -174,7 +174,7 @@ if opcion == "Descripción del Modelo":
 # ---------------------------------------------------------
 # SECCIÓN 2: DATASET
 # ---------------------------------------------------------
-elif opcion == "Visualizar Dataset":
+elif opcion == "Visualizar Dataset (Precio esta en Soles S/.)":
     st.title("📊 Dataset de Laptops")
     st.dataframe(df, use_container_width=True)
 
