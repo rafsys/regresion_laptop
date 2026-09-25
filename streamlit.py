@@ -119,11 +119,7 @@ except Exception as e:
 # ---------------------------------------------------------
 # BARRA LATERAL (Sidebar)
 # ---------------------------------------------------------
-st.sidebar.image(
-    "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=400&q=80",
-    caption="Predecir precio de laptop en función de sus características",
-    use_container_width=True,
-)
+st.sidebar.image("https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=400&q=80", caption="Predecir precio de laptop en función de sus características",use_container_width=True,)
 
 st.sidebar.title("Navegación")
 opcion = st.sidebar.radio(
