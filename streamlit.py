@@ -152,8 +152,9 @@ if opcion == "Descripción del Modelo":
     * **Algoritmo:** **Random Forest Regressor** (Bosques Aleatorios de Regresión).
     * **¿Por qué este modelo?:** Es ideal para manejar relaciones no lineales complejas entre características técnicas y el precio, combina múltiples árboles de decisión para minimizar el sobreajuste y gestiona eficientemente datos mixtos (numéricos y categóricos).
     """
+    H2 **Autor: Rafael Ayuque Anccasi (rafsys@gmail.com)**
     )
-    H1 **Autor: Rafael Ayuque Anccasi (rafsys@gmail.com)**
+    
     st.markdown("---")
     col1, col2 = st.columns(2)
 
