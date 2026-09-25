@@ -121,7 +121,7 @@ except Exception as e:
 # ---------------------------------------------------------
 st.sidebar.image(
     "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=400&q=80",
-    caption="Laptop Price Predictor",
+    caption="Predecir precio de laptop en función de sus características",
     use_container_width=True,
 )
 
@@ -178,13 +178,13 @@ elif opcion == "Visualizar Dataset":
     st.title("📊 Dataset de Laptops")
     st.dataframe(df, use_container_width=True)
 
-    st.subheader("Estadísticas Descriptivas")
+    st.subheader("Estadísticas Descriptivas : df.describe()")
     st.write(df.describe())
 
 # ---------------------------------------------------------
 # SECCIÓN 3: MÉTRICAS
 # ---------------------------------------------------------
-elif opcion == "Métricas del Modelo":
+elif opcion == "Métricas del Modelo": 
     st.title("📈 Métricas de Rendimiento")
 
     col1, col2, col3 = st.columns(3)
@@ -209,7 +209,7 @@ elif opcion == "Métricas del Modelo":
     st.pyplot(fig)
 
     st.info(
-        "💡 **Nota sobre la Matriz de Confusión:** La matriz de confusión solo aplica para algoritmos de **clasificación**. Al tratarse de un problema de **regresión** (predicción de un valor continuo como el precio), las métricas adecuadas son R², MAE y RMSE, complementadas con el gráfico de dispersión de errores."
+        "💡 **Nota: Al tratarse de un problema de **regresión** (predicción de un valor continuo como el precio), las métricas adecuadas son R², MAE y RMSE, complementadas con el gráfico de dispersión de errores."
     )
 
 # ---------------------------------------------------------
