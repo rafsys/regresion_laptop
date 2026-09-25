@@ -255,4 +255,4 @@ elif opcion == "Predicción con Datos Nuevos":
         # Predicción
         pred_price = model.predict(input_scaled)[0]
 
-        st.success(f"💰 **Precio Estimado:** ${pred_price:,.2f}")
+        st.success(f"💰 **Precio Estimado:** S/.{pred_price:,.2f}")
