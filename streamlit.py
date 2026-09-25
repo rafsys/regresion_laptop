@@ -189,8 +189,8 @@ elif opcion == "Métricas del Modelo":
 
     col1, col2, col3 = st.columns(3)
     col1.metric("Coeficiente de Determinación (R²)", f"{metrics['r2']:.4f}")
-    col2.metric("Error Absoluto Medio (MAE)", f"${metrics['mae']:.2f}")
-    col3.metric("Raíz del Error Cuadrático (RMSE)", f"${metrics['rmse']:.2f}")
+    col2.metric("Error Absoluto Medio (MAE)", f"S/.{metrics['mae']:.2f}")
+    col3.metric("Raíz del Error Cuadrático (RMSE)", f"S/.{metrics['rmse']:.2f}")
 
     st.markdown("---")
     st.subheader("Evaluación Gráfica: Valores Reales vs. Predichos")
